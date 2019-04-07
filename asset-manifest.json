@@ -1,13 +1,13 @@
 {
-  "main.css": "/Shuffle/static/css/main.6b9c9c92.chunk.css",
-  "main.js": "/Shuffle/static/js/main.6c557058.chunk.js",
-  "main.js.map": "/Shuffle/static/js/main.6c557058.chunk.js.map",
+  "main.css": "/Shuffle/static/css/main.3c655976.chunk.css",
+  "main.js": "/Shuffle/static/js/main.78604fd2.chunk.js",
+  "main.js.map": "/Shuffle/static/js/main.78604fd2.chunk.js.map",
   "runtime~main.js": "/Shuffle/static/js/runtime~main.d2f5d0ae.js",
   "runtime~main.js.map": "/Shuffle/static/js/runtime~main.d2f5d0ae.js.map",
-  "static/js/2.f4a0f51c.chunk.js": "/Shuffle/static/js/2.f4a0f51c.chunk.js",
-  "static/js/2.f4a0f51c.chunk.js.map": "/Shuffle/static/js/2.f4a0f51c.chunk.js.map",
+  "static/js/2.6e6c3edd.chunk.js": "/Shuffle/static/js/2.6e6c3edd.chunk.js",
+  "static/js/2.6e6c3edd.chunk.js.map": "/Shuffle/static/js/2.6e6c3edd.chunk.js.map",
   "index.html": "/Shuffle/index.html",
-  "precache-manifest.c75f893baa2a0b169156865a419976a5.js": "/Shuffle/precache-manifest.c75f893baa2a0b169156865a419976a5.js",
+  "precache-manifest.3aae0d0edaa26999d6a3090996e53177.js": "/Shuffle/precache-manifest.3aae0d0edaa26999d6a3090996e53177.js",
   "service-worker.js": "/Shuffle/service-worker.js",
-  "static/css/main.6b9c9c92.chunk.css.map": "/Shuffle/static/css/main.6b9c9c92.chunk.css.map"
+  "static/css/main.3c655976.chunk.css.map": "/Shuffle/static/css/main.3c655976.chunk.css.map"
 }
